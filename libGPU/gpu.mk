@@ -1,5 +1,5 @@
 
-GPU_SGX540_LOCAL_PATH := hardware/ingenic/xb4780/libGPU
+GPU_SGX540_LOCAL_PATH := hardware/ingenic/xb4780/core/libGPU
 
 BOARD_EGL_CFG := $(GPU_SGX540_LOCAL_PATH)/egl/egl.cfg
 
